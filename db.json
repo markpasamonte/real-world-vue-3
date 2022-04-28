@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food section",
+      "title": "National Food Day",
+      "description": "Find your favorite food at this event. ",
+      "location": "Food Town",
+      "date": "January 30, 2022",
+      "time": "16:00",
+      "organizer": "Shell Colby"
+    },
+    {
+      "id": 789,
+      "category": "women month",
+      "title": "National Woman Day",
+      "description": "Celebrate the feminine day at this event. ",
+      "location": "Woman Center Organization",
+      "date": "May 09, 2022",
+      "time": "23:00",
+      "organizer": "Shy Balagtas"
+
+    }
+  ]
+}
